@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ira's Tech Blog
+email: ira.levin@datalink.com
+description: > # this means to ignore newlines until "baseurl:"
+  This blog contains tasty bytes of information I've accumulated over the years
+  as it relates to Web application development.  The plan is to cover whatever
+  seems relevant, be it on the Microsoft .NET side of things, Ruby On Rails,
+  HTML, CSS, JQuery, Javascript, Bootstrap, Angular JS or anything in between.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://techblog.datalink.com" # the base hostname & protocol for your site
+github_username:  ilevin350
+
+# Build settings
+markdown: kramdown
