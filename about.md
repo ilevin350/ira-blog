@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Ira Levin.  I'm a full-stack developer living in Camarillo, CA.  I like Microsoft .NET and C#, but I *love* Ruby and Ruby on Rails.  Here's a more or less complete list of the technologies I'm currently into:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* Languages: C#, Ruby, Javascript
+* Web Frameworks: ASP.NET (including Web Forms and MVC) and Ruby on Rails
+* Mobile Frameworks: PhoneGap/Cordova and Ionic
+* HTML
+* CSS
+* jQuery
+* Bootstrap
+* Angular JS

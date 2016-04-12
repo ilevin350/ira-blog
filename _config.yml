@@ -7,14 +7,13 @@
 
 # Site settings
 title: Ira's Tech Blog
-email: ira.levin@datalink.com
+email: ilevin350@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog contains tasty bytes of information I've accumulated over the years
   as it relates to Web application development.  The plan is to cover whatever
-  seems relevant, be it on the Microsoft .NET side of things, Ruby On Rails,
-  HTML, CSS, JQuery, Javascript, Bootstrap, Angular JS or anything in between.
+  seems relevant or useful to other developers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://techblog.datalink.com" # the base hostname & protocol for your site
+url: "http://ilevin350.com" # the base hostname & protocol for your site
 github_username:  ilevin350
 
 # Build settings
